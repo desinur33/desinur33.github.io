@@ -1,0 +1,55 @@
+{
+    "name": "Football Sub-3",
+    "short_name": "Football D3",
+    "description": "Aplikasi Football Sub 3",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#263238",
+    "theme_color": "#263238",
+    "icons": [
+        {
+            "src": "/assets/img/icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/assets/img/icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+
+        },
+        {
+            "src": "/assets/img/icon192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/assets/img/icon192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+
+        },
+        {
+            "src": "/assets/img/icon144.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/assets/img/icon144.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any maskable"
+
+        }
+    ],
+    "gcm_sender_id" : "959934953523"
+
+
+
+
+}

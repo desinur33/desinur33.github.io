@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+
+body{
+    font-family: 'Noto Sans JP',sans-serif;
+}
+
+.title-team span{
+    margin-top:10px;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    width: 100%;
+    height: 300px;
+    text-align: center;
+}
+
+.title-team{
+    text-align: center;
+    font-size: large;
+    height: 70px;
+}
+
+/*desc.html*/
+
+.card-desc{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    background-color: #cfd8dc;
+}
+
+.img-team{
+    background-color: #b0bec5;
+    width: 100%;
+    height: auto;
+}
+
+.img-team img{
+    width: auto;
+    height: 300px;
+}
+
+.table-team{
+    background-color: #eceff1;
+    margin: 10px auto;
+}
+
+
+.team-desc{
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+}
+
+/* saved.html*/
+
+.btnteam{
+    margin-top:30px;
+ }
+ 
+ .removeTeam{
+     margin-top:30px;
+ }
+
+.team-saved{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    width: 100%;
+    height: 330px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+
+
+
+ 

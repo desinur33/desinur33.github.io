@@ -1,0 +1,8 @@
+{"publicKey":"BO3sQNXLpANvgX2HbTygEXaeCqxO6bpC6GDXnOAqtGV4QhSeYq7t9dR2zgFY78nvhQr3WNl8xu27-8dbeTWq8wM",
+"privateKey":"LqhsSX4A4KGsYzWEQ23MFvc25gRDm6OZJVYFC20AxVc"}
+
+ "endpoint": "https://fcm.googleapis.com/fcm/send/f9c59hceQhk:APA91bHeOb4b-1-AMTd4QsKvLTushS3nT1_klQmtXxHEZXXB-tgIfBLc3w21k4o2hW-IPn45Hc0AswaKhrjXbMfdT30-Dl8tc0JElc-JjDuF5V9pPU1vc54SE96He5d4sa3hgCI5YTXP",
+    "keys": {
+        "p256dh": "BP8p4EO0xdH9gJd9tXmifLB13ngW6bXNoE0PjY6DI2W2jogu1MqOKF4RBydcpHnMdI0IjNy7LXqf/C6n6ivbg3A=",
+        "auth": "8ru/i1N8AVFylj1iyYxaRg=="
+    }
